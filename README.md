@@ -1,18 +1,31 @@
-# Podcast
-criação de um podcast via IA projeto DIO santander
-COmeçando com propts de comando do chatgpt, depois usando voz via Elevenlabs, editado no capcut e a imagem da capa tambem foi gerada no chat já que nos outros sites não havia uma opção de graça
 # 🎙️ Podcast - Finanças e Investimentos  
 
-Este é um projeto prático da DIO.  
-Aqui você encontra:  
-- 📄 Roteiro do podcast (`roteiro_podcast.md`)  
-- 💡 Prompts utilizados para gerar o conteúdo (`prompts.md`)  
-- 🎧 Áudio gravado (`podcast editado eduardo`)  
-- 🖼️ Capa do podcast (`ChatGPT Image 30 de set. de 2025, 09_30_41.png
-`)  
+Projeto prático desenvolvido para a DIO.  
+Este repositório contém todo o material utilizado na criação de um episódio de podcast sobre **finanças pessoais e investimentos**.  
+
+## 📂 Estrutura do Repositório
+- 📄 [Roteiro do Podcast](https://github.com/EduardoPABRA/Podcast/blob/main/roteiro_podcast.md)  
+- 💡 [Prompts utilizados](https://github.com/EduardoPABRA/Podcast/blob/main/prompts.md)  
+- 🎧 [Ouvir Podcast](https://github.com/EduardoPABRA/Podcast/blob/main/podcast%20editado%20eduardo.mp4)  
+- 🖼️ [Capa do Podcast](https://github.com/EduardoPABRA/Podcast/blob/main/ChatGPT%20Image%202025-09-30%20at%2009.53.15.png)  
 
 ## 🚀 Tema
-Finanças pessoais e investimentos: como organizar seu dinheiro e dar os primeiros passos no mundo dos investimentos.
+**Finanças pessoais e investimentos: como organizar seu dinheiro e dar os primeiros passos no mundo dos investimentos.**
 
-## 📌 Como ouvir
-Baixe o arquivo `podcast editado eduardo` e escute em qualquer player de áudio.
+## 📌 Descrição
+O episódio aborda:
+- A importância da educação financeira.  
+- Como organizar as finanças pessoais.  
+- Primeiros passos no mundo dos investimentos.  
+- A mentalidade de longo prazo para conquistar liberdade financeira.  
+
+## 🛠️ Tecnologias e Ferramentas
+- **ChatGPT** → criação do roteiro e prompts.  
+- **Editor de áudio** → gravação e edição do episódio.  
+- **GitHub** → versionamento e hospedagem do projeto.  
+
+## 👤 Autor
+- Eduardo Pires Andrade  
+- [GitHub](https://github.com/EduardoPABRA)  
+
+---
